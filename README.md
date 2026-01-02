@@ -1,4 +1,4 @@
-# Project 2: Sentiment Analysis with NLP
+# Sentiment Analysis with NLP
 
 ### Project Overview
 This project utilizes a pre-trained BERT model from Hugging Face's Transformers library to perform sentiment analysis on text inputs. It classifies text as positive or negative with confidence scores. This demonstrates natural language processing (NLP) and transfer learning, making it a great portfolio addition for NLP enthusiasts.
